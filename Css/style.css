@@ -12,7 +12,7 @@ header {
     padding: 15px 0;
 }
 header {
-    background-image: url("images/Screenshot_30.png");
+    background-image: url(../Images/Screenshot_30.png);
     background-repeat: no-repeat;
     background-position: auto; 
     background-size: 130px 130px;
@@ -55,7 +55,7 @@ footer {
     font-size: 20px;
 }
 body {
-    background-image: url("images/Screenshot_26.png");
+    background-image: url(../Images/Screenshot_26.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
